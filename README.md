@@ -4,6 +4,8 @@ Easy, light, flexible treeview made with [React](http://facebook.github.io/react
 
 [Demos](https://cdn.rawgit.com/chenglou/react-treeview/aa72ed8b9e0b31fabc09e2f8bd4084947d48bb09/demos/index.html) from the [demos folder](https://github.com/chenglou/react-treeview/tree/aa72ed8b9e0b31fabc09e2f8bd4084947d48bb09/demos).
 
+**src目录下的TreeView.jsx文件，替代react-treeview.jsx, 其他不变**
+
 ## install
 
 Npm:
